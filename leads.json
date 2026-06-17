@@ -1,0 +1,25 @@
+[
+  {
+    "id": "9e8c24c5-3be3-4b53-a1bd-eaa870a79495",
+    "timestamp": "2026-06-09T06:50:33.153Z",
+    "name": "sweety",
+    "phone": "9090329221",
+    "source": "market_report",
+    "areas_viewed": [
+      "devanahalli",
+      "sarjapur",
+      "whitefield",
+      "hebbal",
+      "yelahanka",
+      "marathahalli",
+      "kanakapura",
+      "indiranagar",
+      "electronic-city",
+      "hsr-layout",
+      "bannerghatta",
+      "koramangala"
+    ],
+    "report_generated": true,
+    "status": "new"
+  }
+]
